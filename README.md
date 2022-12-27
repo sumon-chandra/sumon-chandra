@@ -1,8 +1,7 @@
 # 💫 About Me:
 Hi there,<br>My name is Sumon Chandra Shil. I'm a Front-End developer who loves to create web apps. <br>
 
-![banner](https://i.ibb.co/s5F7gMz/f.jpg)
-
+![banner](https://i.ibb.co/fCd8YwK/Github-banner.png)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SumonChandraForever) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumon-chandra) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sumon__Chandra) 
 
