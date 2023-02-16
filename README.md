@@ -18,7 +18,7 @@ const sumon = {
         },
         backEnd: {
             js: ["firebase"]
-        }
+        },
         specialized: ["javascript", "react.js", "tailwindCSS", "frontend architecture"]
     }
 };
