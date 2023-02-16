@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Sumon Chandra, Front-end Developer
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Sumon__Chandra?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Sumon__Chandra?style=social)](https://twitter.com/Sumon__Chandra)
 [![Linkedin: SumonChandra](https://img.shields.io/badge/sumonchandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumonchandra)](https://www.linkedin.com/in/sumonchandra)
 ![](https://visitor-badge.glitch.me/badge?page_id=sumon-chandra.sumon-chandra)
 
