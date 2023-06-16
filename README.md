@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Sumon Chandra, Front-end Developer
+# Hi there 👋 Welcome to my GitHub! I'm Sumon Chandra, Web Developer
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sumon__Chandra?style=social)](https://twitter.com/Sumon__Chandra)
@@ -10,16 +10,16 @@
 ```javascript
 const sumon = {
     pronouns: "he" | "him",
-    language: [JavaScript, HTML, CSS],
+    language: ["JavaScript", "TypeScript"],
     askMeAbout: ["web dev", "tech", "music", "coffee", "movie"],
     technologies: {
         frontEnd: {
-            framework_library : ["react.js", "redux.js", "tailwindCSS", "boorstrap", "materialUI", "chakraUI"]
+            framework_library : ["reactJS", "reduxJS", "react-query", "tailwindCSS", "boorstrap", "materialUI"]
         },
         backEnd: {
-            js: ["firebase"]
+            framework_library: ["modeJS", "expressJS", "mongoDB", "firebase"]
         },
-        specialized: ["javascript", "react.js", "tailwindCSS", "frontend architecture"]
+        specialized: ["javascript", "react.js", "firebase", "tailwindCSS", "frontend architecture"]
     }
 };
 ```
