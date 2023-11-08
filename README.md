@@ -7,15 +7,15 @@
 const sumon = {
     pronouns: "he" | "him",
     language: ["JavaScript", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "music", "coffee", "movie"],
+    askMeAbout: ["Web Development", "Front-End Development", "Tech", "Music"],
     technologies: {
         frontEnd: {
-            framework_library : ["reactJS", "reduxJS", "react-query", "tailwindCSS", "boorstrap", "materialUI"]
+            framework_library : ["NextJS", "ReactJS", "ReduxJS", "React-Query", "TailwindCSS", "Bootstrap", "ShadcnUI"]
         },
         backEnd: {
-            framework_library: ["modeJS", "expressJS", "mongoDB", "firebase"]
+            framework_library: ["NodeJS", "ExpressJS", "MongoDB", "Firebase"]
         },
-        specialized: ["javascript", "react.js", "firebase", "tailwindCSS", "frontend architecture"]
+        specialized: ["JavaScript", "TypeScript", "ReactJS", "NextJS", "TailwindCSS", "Frontend Architecture"]
     }
 };
 ```
@@ -47,6 +47,8 @@ const sumon = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=next" height="24" alt="react logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
   <img width="30" />
