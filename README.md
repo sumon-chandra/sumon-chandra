@@ -1,77 +1,28 @@
-## Hi there 👋 Welcome to my GitHub! I'm ***Sumon Chandra***, Web Developer
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Sumon%20Chandra&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=18" alt="Sumon Chandra — Full-Stack Web Developer banner" width="100%" /> <p> <a href="https://idevsumon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/sumonchandra"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/idev_sumon"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://github.com/sumon-chandra"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p> <p> <em>Building useful web products with thoughtful interfaces and dependable backends.</em> </p> </div>
+👋 About Me
+I'm a web developer from Bangladesh who enjoys turning ideas into useful, polished web experiences.
+I build responsive interfaces with React, Next.js, and TypeScript, and develop APIs with Node.js and Express.
+I work with databases and data-access tools including PostgreSQL, Prisma, MongoDB, and Redis.
+Currently, I'm strengthening my backend and database skills while exploring vector search and RAG with PostgreSQL + pgvector.
 
 
-### aboutMe.js
 
-```javascript
-const sumon = {
-    pronouns: "he" | "him",
-    language: ["JavaScript", "TypeScript"],
-    askMeAbout: ["Web Development", "Front-End Development", "Tech", "Music"],
-    technologies: {
-        frontEnd: {
-            framework_library : ["NextJS", "ReactJS", "ReduxJS", "React-Query", "TailwindCSS", "Bootstrap", "ShadcnUI"]
-        },
-        backEnd: {
-            framework_library: ["NodeJS", "ExpressJS", "MongoDB", "Firebase"]
-        },
-        specialized: ["JavaScript", "TypeScript", "ReactJS", "NextJS", "TailwindCSS", "Frontend Architecture"]
-    }
-};
-```
----------------
-###
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=sumon-chandra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumon-chandra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sumonchandra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/SumonChandraForever" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/Sumon__Chandra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=next" height="24" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="24" alt="redux logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" alt="express logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="bootstrap logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="figma logo"  />
-</div>
-
-###
-<p align="center">
-Check out my repos ⬇️  
+> 🚀 What I'm Working On
+> Building and improving full-stack web applications with TypeScript, Next.js, and Express.
+> Developing projects including Opennest, a rental property marketplace, and Waypoint, a shipment and delivery platform.
+> Exploring Retrieval-Augmented Generation (RAG) and vector search to add practical AI features to web applications.
+> Learning more about PostgreSQL query performance, API design, payments, and production-ready backend architecture.
+🧰 Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, and Bootstrap" /> </p>
+Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase,redis,prisma,firebase" alt="Node.js, Express, PostgreSQL, MongoDB, Supabase, Redis, Prisma, and Firebase" />
 </p>
+Tools & Workflow
+<p> <img src="https://skillicons.dev/icons?i=git,github,bun,vscode,figma" alt="Git, GitHub, Bun, Visual Studio Code, and Figma" /> </p>
+📊 GitHub Stats
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumon-chandra&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats for Sumon Chandra" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon-chandra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used programming languages" /> </div> <div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=sumon-chandra&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /> </div> <div align="center"> </div>
+<div align="center"> <p><strong>Thanks for stopping by!</strong> Feel free to explore my repositories or connect with me.</p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=100&section=footer" alt="Decorative footer banner" width="100%" /> </div>
 
 
