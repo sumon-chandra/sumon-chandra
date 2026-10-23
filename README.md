@@ -5,13 +5,8 @@ I build responsive interfaces with React, Next.js, and TypeScript, and develop A
 I work with databases and data-access tools including PostgreSQL, Prisma, MongoDB, and Redis.
 Currently, I'm strengthening my backend and database skills while exploring vector search and RAG with PostgreSQL + pgvector.
 
+---
 
-
-> 🚀 What I'm Working On
-> Building and improving full-stack web applications with TypeScript, Next.js, and Express.
-> Developing projects including Opennest, a rental property marketplace, and Waypoint, a shipment and delivery platform.
-> Exploring Retrieval-Augmented Generation (RAG) and vector search to add practical AI features to web applications.
-> Learning more about PostgreSQL query performance, API design, payments, and production-ready backend architecture.
 🧰 Tech Stack
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, and Bootstrap" /> </p>
